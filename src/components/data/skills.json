@@ -1,0 +1,31 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/download.png"
+    },
+    {
+        "title": "HTML 5",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Jera",
+        "imageSrc": "skills/jera.png"
+    },
+    {
+        "title": "Slack",
+        "imageSrc": "skills/slack.png"
+    },
+   
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    }
+]
